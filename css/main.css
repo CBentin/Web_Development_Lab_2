@@ -1,0 +1,80 @@
+.header{
+    margin: auto;
+    
+    max-width: 800px;
+    font-family: 'Segoe UI';
+}
+.header h1{
+    position: relative;
+    bottom: 0px;
+    font-size: 64px; 
+    font-weight: 600;
+    color: rgb(70, 117, 186);;
+}
+
+.header .me{
+    float: right;
+    width: 145px;
+}
+
+.header img{
+    width: 25px;
+}
+
+.header address{
+    font-style: normal;
+}
+    
+.main{
+    margin: auto;
+    max-width: 800px;
+    font-family: 'Segoe UI';
+}
+
+.objective{
+    margin-bottom: -20px;
+    padding-bottom: 10px;
+    background-color: rgb(230,230,230);
+}
+.expierence{
+    margin-bottom: -20px;
+    padding-bottom: 10px;
+}
+.education{
+    margin-bottom: -20px;
+    padding-bottom: 10px;
+    background-color: rgb(230,230,230);
+}
+.interests{
+    margin-bottom: -20px;
+    padding-bottom: 10px;
+}
+
+.objective.first{
+    position: relative;
+    padding-top:28px;
+    padding-left:150px;
+}
+
+.first{
+    position: relative;
+    padding-top:26px;
+    padding-left:150px;
+}
+
+
+h2{
+    float: left;
+    padding-left: 10px;
+    color: rgb(70, 117, 186);;
+}
+
+h3{
+    position: relative;
+    padding-left:150px;
+}
+
+p{
+    position: relative;
+    padding-left:150px;
+}
